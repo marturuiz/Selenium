@@ -1,2 +1,2 @@
 # Selenium
-This repository will contain a sample of a simple sript in C# using Selenium WebDriver in Chrome.
+This repository contains a simple sample of a script in C# using Selenium WebDriver in Chrome.
